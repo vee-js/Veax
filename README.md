@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Veex (pronounced /vi:ks/) is A State Management Library for Vee.js.
+Veax (pronounced /vi:ks/) is A State Management Library for Vee.js.
 
 ## Documentation
 
